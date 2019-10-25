@@ -20,7 +20,7 @@
 The entire user experiance has been made in Figma with additional functionality in the form of the Upload experience.
 Both experiences are inside the 'Proton Prototype', if you click on the upload icon you will be linked to the 'Upload Functionality Prototype'. 
 
-As this is intended to be a mobile applicatiopn, when using the 'Upload Functionality' please view this on a mobile or use your browser's dev tool to toggle the browsers device view (it's best viewed on an iPhoneX). Additionally, when uploading a photo please ensure the photo you upload is under 5Mb on mobile as localStorage can only hold smaller files.
+As this is intended to be a mobile application, when using the 'Upload Functionality' please view this on a mobile or use your browser's dev tool to toggle the browsers device view (it's best viewed on an iPhoneX). Additionally, when uploading a photo please ensure the photo you upload is under 5Mb on mobile as localStorage can only hold smaller files.
 
 ## Team Members
 
