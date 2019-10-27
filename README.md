@@ -28,3 +28,9 @@ As this is intended to be a mobile application, when using the 'Upload Functiona
 * Alistair Harris
 * Piyumi Pathirana
 * Ben Williams
+
+### Statement of Originality
+In order to get ceritan Javascript functionality working online resources were used.
+The functionality of 'Saving files to localStorage and calling them on other pages' were all obtained from http://jsfiddle.net/lesson8/sLLR6/.
+
+Storing images in localStorage is purely for demonstration purposes only. In a fully functional version of Proton the files would be uploaded to a server and store for future use and interaction.
