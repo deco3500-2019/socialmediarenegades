@@ -14,7 +14,7 @@
 
 * [Upload Functionality Prototype](https://s4395214-proton.uqcloud.net/index.html?fbclid=IwAR2GORAYcxuJSR3ClZpmkRgDsYlyTF082Z8vBLBexlh4h_Ff0LmJD86uwh8)
 
-* Conference Poster
+* [Conference Poster](https://github.com/deco3500-2019/socialmediarenegades/wiki/Conference-Poster)
 
 ### Instructions for running prototype
 The entire user experiance has been made in Figma with additional functionality in the form of the Upload experience.
